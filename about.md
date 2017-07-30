@@ -2,7 +2,7 @@
 layout: minimal
 title: "About me"
 permalink: /about/index.html
-description: "Some description about Victor Igor..."
+description: 
 ---
 
 I am an aspiring data scientist in the San Francisco Bay Area.
