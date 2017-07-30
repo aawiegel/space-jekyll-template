@@ -2,7 +2,7 @@
 title: Aaron Wiegel - Data Scientist
 description: Data Scientist in SF Bay Area
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: 'https://aawiegel.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "https://aawiegel.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: aawiegel
 user_title: Data Scientist
